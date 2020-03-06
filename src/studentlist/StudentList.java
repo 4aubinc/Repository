@@ -8,7 +8,7 @@ package studentlist;
 /**
  *
  * @author carrieaubin
- * changes
+ * 
  */
 public class StudentList {
 
